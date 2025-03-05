@@ -1,6 +1,6 @@
-# BigQuery Sales Pipeline
+# BigQuery repository
 
-This project demonstrates a basic sales data pipeline in BigQuery, including data ingestion, transformation, and analysis.
+This project contains BigQuery scripts for including data ingestion, transformation, and analysis.
 
 ## Structure
 
