@@ -5,3 +5,7 @@ SELECT
   COUNT(CASE WHEN sale_date > CURRENT_DATE() THEN 1 END) AS future_sale_dates
 FROM
   ;
+
+
+
+-- comment
